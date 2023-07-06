@@ -14,6 +14,7 @@ public class Employee {
 		System.out.println(depno);
 		System.out.println(ename);
 		System.out.println(job);
+		System.out.println();
 	}
 	
 

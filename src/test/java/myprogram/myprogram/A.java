@@ -7,6 +7,8 @@ public class A {
 	void display() {
 		int sum=a+b;
 		System.out.println(sum);
+		
+		System.out.println();
 	}
 	class B extends A{
 		int b=20;
